@@ -70,3 +70,4 @@
 *本仓库是 retcon-docs（回溯性重构）的配套：框架说「匮乏是理解的入口」，这里放「入口后面长什么样」。*
 
 * **衍生**：归因谬误清单（「曾经以为对、后来被推翻」的一类）在 [`retcon-denial\反\归因谬误.md`](https://github.com/QiDouZu/retcon-denial/blob/main/%E5%8F%8D/%E5%BD%92%E5%9B%A0%E8%B0%AC%E8%AF%AF.md)。
+* **二阶段承载**：匮乏之后「怎么把缺口变成疼」在 [`ai-personality-hunger`](https://github.com/QiDouZu/ai-personality-hunger)（AI 的人格·饥）——饥=掌控匮乏+未消化矛盾+消化，沙盘是承载意识的必要件。
